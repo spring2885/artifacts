@@ -1,4 +1,4 @@
-ontributing
+# Contributing to Spring2885
 
 <strong>Here's some guidelines for contributing to Spring2885</strong>
 
