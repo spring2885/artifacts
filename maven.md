@@ -32,19 +32,24 @@ export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
 11. Now test it by checking the version.
 ````
 	./apache-maven-3.3.9/bin/mvn -v
-pache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T08:41:47-08:00)
+````
+
+You should see output like this:
+````
+Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T08:41:47-08:00)
 Maven home: /Users/rcleveng/bin/apache-maven-3.3.9
 Java version: 1.8.0, vendor: Oracle Corporation
 Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre
 Default locale: en_US, platform encoding: UTF-8
 OS name: "mac os x", version: "10.11.2", arch: "x86_64", family: "mac"
-
+````
 
 3. Add maven to your PATH by editing ```$HOME/.bash_profile``` again:
 
 ````
   vi ~/.bash_profile
 ````
+
 Add this line:
 ````
 export PATH=$PATH":$HOME/bin/apache-maven-3.3.9/bin
