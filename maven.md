@@ -52,7 +52,7 @@ OS name: "mac os x", version: "10.11.2", arch: "x86_64", family: "mac"
 
 Add this line:
 ````
-export PATH=$PATH":$HOME/bin/apache-maven-3.3.9/bin
+export PATH=$PATH:$HOME/bin/apache-maven-3.3.9/bin
 ````
 Restart your terminal
 
