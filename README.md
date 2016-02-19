@@ -1,2 +1,9 @@
-# artifacts
-Artifacts generated during the planning and development phase of Spring2885. This is not for production code.
+# Artifacts
+
+Here are some documents for working with Spring-2885.
+This repository is *not* the place for production code. 
+
+Documents:
+* [Installing Maven](maven.md)
+* [Invoking our API using CURL](curl.md)
+* [How to contribute code to the project/git tutorial](contributing.md)
