@@ -38,12 +38,12 @@ Here's the best way to work with the Spring2885 git repository:
     ```bash
     # Create a directory for your fork's clone.
     mkdir git
-    chdir git
+    cd git/
     # Clone your fork into the current directory (git).
-    # Use your GitHub username instead of <em>YOUR-USERNAME</em>
-    git clone https://github.com/<em>YOUR-USERNAME</em>/<em>REPOSITORY-NAME</em>.git
-    # Change directory into the new directory (<em>REPOSITORY-NAME</em>)of your clone/
-    chdir <em>REPOSITORY-NAME</em>
+    # Use your GitHub username instead of YOUR-USERNAME
+    git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+    # Change directory into the new directory (REPOSITORY-NAME) of your clone
+    cd REPOSITORY-NAME
     # Add the remotes for the upstream repository (spring2885/REPOSITORY-NAME)
     git remote add upstream https://github.com/spring2885/REPOSITORY-NAME.git
     ```
