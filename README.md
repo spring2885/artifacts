@@ -8,3 +8,4 @@ Documents:
 * [Invoking our API using CURL](curl.md)
 * [How to contribute code to the project](contributing.md)
 * [Git Tutorial](GITHOWTO.md)
+* [Java Rest API best practices](restguidelines.md)
