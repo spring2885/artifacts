@@ -82,7 +82,7 @@ Here's the best way to work with the Spring2885 git repository:
    title and description of the changes.  Please reference any issues on GitHub as needed. 
    [pr]: https://github.com/spring2885/REPOSITORY-NAME/compare
 
-8. At this point you're waiting on us. Sean or Rob will merge the requests or 
+8. At this point you're waiting on us. Admin will merge the requests or 
    add comments that need to be addressed ASAP.
 
 [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
